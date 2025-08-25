@@ -2,7 +2,9 @@
 using namespace std;
 //global structure
 struct person
-{
+{//naabil
+    gi
+
     int age;
     float salary;
 };
